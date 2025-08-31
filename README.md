@@ -1,20 +1,15 @@
-# 🏷 Lost and Found Portal (Java - No Database)
+# 🏷 Lost and Found Portal (AUGUST 2025)
 
-A simple *Lost and Found management system* built entirely in *Core Java* without any database.  
-This project stores items in memory using an ArrayList and allows users to add, view, and search lost/found items.  
-Perfect for  learning Java, OOP, and basic CRUD logic.
+A console-based Java app to manage lost/found items using MySQL and JDBC.
 
----
+## 🔧 Tech Stack
+Java · MySQL · JDBC · IntelliJ IDEA
 
-## 📌 Features
-- ➕ Add lost or found items  
-- 📜 View all items  
-- 🔍 Search items by name or status  
-- 🛠 No database required (data stored in memory)  
-- 💻 Console-based interface  
+## 🚀 Features
+Add, view, and search items · Console UI · CRUD operations
 
----
-
+## 📚 What I Learned
+JDBC connectivity · SQL queries · Exception handling · OOP design
 ## 🛠 Tech Stack
 - *Language:* Java (Core Java, OOP)  
 - *Data Storage:* ArrayList (in-memory)  
